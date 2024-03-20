@@ -15,11 +15,12 @@
 
             <Label
                 Text="Bem Vindo"
+                FontFamily="OpenSans-Regular"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
 
             <Label
-                Text="Bem vindo ao SocialApp"
+                Text="Olá, bem vindo ao ShopEZ"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
